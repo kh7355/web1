@@ -1,0 +1,44 @@
+span
+{
+    display:inline-block;
+}
+.top
+{
+    text-align: center;
+    line-height: 20vh;
+}
+.rec
+{
+
+    height: 200%;
+    width: 50%;
+    align-content: center;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+
+    border-radius: 1em;
+    text-align: center;
+    vertical-align: center;
+    
+}
+.weather
+{
+    font-size: 50px;
+    border-radius: 3px;
+}
+.div-weather-1
+{
+    display:inline;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+}
+.img
+{
+    float: left;
+    width: 30%;
+    border: 3px solid red;
+    box-shadow: 3px 3px 10px red;
+    margin: 10px;
+}
